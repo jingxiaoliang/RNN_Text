@@ -1,6 +1,6 @@
 # RNN_Text
 
-**setp**
+**step**
 
 * read data
 * tokenize
