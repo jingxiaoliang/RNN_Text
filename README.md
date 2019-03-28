@@ -1,6 +1,7 @@
 # RNN_Text
 
 Generating text by RNN.
+
 Corpus:English, Chinese
 
 **step**
@@ -18,3 +19,4 @@ env:
 * gensim
 * tensorflow
 * jieba
+* nltk
