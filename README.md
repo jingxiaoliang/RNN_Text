@@ -1,5 +1,8 @@
 # RNN_Text
 
+Generating text by RNN.
+Corpus:English, Chinese
+
 **step**
 
 * read data
@@ -14,3 +17,4 @@ env:
 * numpy
 * gensim
 * tensorflow
+* jieba
